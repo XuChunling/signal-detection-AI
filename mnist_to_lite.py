@@ -1,4 +1,5 @@
 # author xuchunling
+# tf version 1.14
 import tensorflow as tf
 
 mnist = tf.keras.datasets.mnist
